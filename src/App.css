@@ -59,7 +59,7 @@ body {
   padding: 10px;
 }
 .option-btn {
-  box-shadow: 0px 0px 4px 1px rgb(128, 123, 123);
+  box-shadow: 0px 0px 4px 1px rgb(14, 13, 13);
   padding: 5px;
   border-radius: 3px;
   border: none;
@@ -67,7 +67,7 @@ body {
   transition: 0.3s;
   margin: 5px;
   min-height: 30px;
-  background-color: white;
+  background-color: rgb(2, 2, 2);
 }
 
 .checked {
